@@ -1,4 +1,4 @@
-package day_04;
+package algoritmi_colloquio;
 
 /*
  * Il fattoriale di un numero serve per calcolare il prodotto di tutti i numeri interi positivi fino a quel numero.
@@ -55,7 +55,6 @@ package day_04;
 //Fattoriale iterativo: usa un ciclo for per moltiplicare progressivamente, senza chiamate a sé stesso.
 
 public class FattorialeIterativo {
-	
 	public static void main(String[] args) {
 		int numero = 9;
 
