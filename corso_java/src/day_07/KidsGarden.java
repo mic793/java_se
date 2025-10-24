@@ -2,7 +2,6 @@ package day_07;
 
 public class KidsGarden {
 
-	// Metodo principale 'main', il punto di ingresso del programma.
 	public static void main(String[] args) {
 
 		// Dichiara un array di stringhe con i nomi dei bambini.

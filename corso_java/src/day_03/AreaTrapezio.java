@@ -36,7 +36,9 @@ import java.util.Scanner;
  */
 
 //ESERCIZIO 4
-//Implementa un programma che chieda all'utente di inserire la lunghezza delle basi e l'altezza di un trapezio e calcoli la sua area utilizzando le formule geometriche.
+//Implementa un programma che chieda all'utente di inserire la lunghezza delle basi e l'altezza di un trapezio e calcoli la sua area 
+//utilizzando le formule geometriche.
+
 public class AreaTrapezio{
 	public static void main(String[] args) {
 		

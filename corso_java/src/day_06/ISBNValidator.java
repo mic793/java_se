@@ -19,7 +19,8 @@ package day_06;
  * https://en.wikipedia.org/wiki/ISBN#ISBN-10_check_digit_calculation
 */
 
-/*public class ISBNValidator {
+//ESERCIZIO 3
+public class ISBNValidator {
 
 	 // Metodo che controlla la validità di una stringa secondo le regole dell'ISBN-10.
     public static boolean isValidISBN10(String isbn) {
@@ -106,9 +107,10 @@ package day_06;
 
    
 }
-*/
+
 
 //ESERCIZIO 3
+/*
 public class ISBNValidator {
 	public static boolean isValidISBN10(String isbn) {
 
@@ -179,3 +181,4 @@ public class ISBNValidator {
 	}
 
 }
+*/

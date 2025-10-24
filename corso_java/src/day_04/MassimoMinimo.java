@@ -2,7 +2,7 @@ package day_04;
 
 /*Write a Java program that calculates the maximum and minimum values in an array of integers.*/
 
-/*public class MassimoMinimo {
+public class MassimoMinimo {
 
 	public static void main(String[] args) {
 
@@ -37,12 +37,13 @@ package day_04;
     } 
     
 }
-*/
+
 
 
 //ESERCIZIO 7
 //Scrivi un programma Java che calcola il valore massimo e il valore minimo presenti in un array di interi.
-public class MassimoMinimo {
+/*
+ public class MassimoMinimo {
 	public static void main(String[] args) {
 
 		int[] numeri = { 5, 10, -2, 8, 3 };
@@ -66,3 +67,4 @@ public class MassimoMinimo {
 	}
 
 }
+*/

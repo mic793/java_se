@@ -4,12 +4,12 @@ package day_04;
  * Questa classe implementa l'algoritmo del Crivello di Eratostene
  * per determinare se un dato numero è primo, calcolando tutti i numeri primi fino a quel numero.
  */
-/*public class CrivelloEratostene {
+public class CrivelloEratostene {
 	
 	public static void main(String[] args) {
 		
 		// Imposta il numero che si vuole verificare (e il limite superiore del crivello).
-		int numero = 16;
+		int numero = 17;
 		
 		// Crea un array di booleani (il "crivello") di dimensione 'numero + 1'.
 		// L'indice dell'array rappresenta il numero stesso. isPrimo[i] sarà true se i è primo.
@@ -38,7 +38,7 @@ package day_04;
 			            // Imposta il valore a 'false' per ogni multiplo trovato.
 			            isPrimo[j] = false;
 			        }
-			     }
+			 }
 		}
 	
 		// Stato finale dell'array dopo aver "setacciato" tutti i multipli.
@@ -51,10 +51,11 @@ package day_04;
 		System.out.println("Il numero " + numero + ((isPrimo[numero] ? " e' primo": " non e' primo")));
 	}
 }
-*/
+
 
 //ESERCIZIO 11
 //Scrivi un programma java per verificare se un numero è primo con il metodo del crivello di eratostene.
+/*
 public class CrivelloEratostene{
     public static void main(String[] args) {
         int numero = 17;
@@ -72,4 +73,5 @@ public class CrivelloEratostene{
         System.out.println("Il numero " + numero + ((isPrimo[numero] ? " è primo" : " non è primo")));
     }
 }
+*/
 

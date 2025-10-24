@@ -47,7 +47,7 @@ public class ConversioneTemperatura{
 		System.out.println("Inserisci la temperatura in gradi Celsius: ");
 		double celsius = input.nextDouble();
 		
-		double fahrenheit = celsius * 9 / + 32;
+		double fahrenheit = celsius * 9/5 + 32;
 		System.out.println("La temperatura in gradi Fahrenheit e': " + fahrenheit);
 		
 		input.close();

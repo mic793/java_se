@@ -33,6 +33,7 @@ import java.util.Scanner;
 
 //ESERCIZIO 2
 //Implementa un programma che chieda all'utente di inserire un numero e calcoli il suo valore assoluto utilizzando il metodo abs() della classe Math.
+
 public class ValoreAssoluto{
 	
 	public static void main(String[] args) {

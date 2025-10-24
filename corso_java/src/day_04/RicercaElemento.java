@@ -1,12 +1,12 @@
 package day_04;
 
+//ESERCIZIO 8
 /*
  * Write a Java program that searches for a specific element within an internal array and returns its position (index).
  */
 
-/*public class RicercaElemento {
+public class RicercaElemento {
 
-	// Metodo principale 'main', il punto di ingresso del programma.
     public static void main(String[] args) {
         // Dichiara e inizializza un array di numeri interi.
         int[] numeri = {10, 20, 30, 40, 50};
@@ -37,14 +37,17 @@ package day_04;
             // Altrimenti, comunica che l'elemento non è presente nell'array.
             System.out.println("L'elemento " + elemento + " non è presente nell'array.");
         }
-    } // Chiusura del metodo main
+    } 
     
-} // Chiusura della classe ElementFinder
-*/
+} 
+
+
 
 //ESERCIZIO 8
 //Scrivi un programma Java che ricerca un elemento specifico all'interno di un array di interi e restituisce la sua posizione (indice).
-public class RicercaElemento {
+/*
+ public class RicercaElemento {
+ 
 	public static void main(String[] args) {
 		int[] numeri = { 10, 20, 30, 40, 50 };
 
@@ -68,3 +71,4 @@ public class RicercaElemento {
 	}
 
 }
+*/

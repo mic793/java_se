@@ -39,7 +39,7 @@ package day_03;
 
 //ESERCIZIO 5
 //Scrivere un programma che visualizzi sullo schermo del terminale il vostro nome all’interno di un rettangolo, come nell’esempio seguente:
-//+ -----+ 
+//+ ------+ 
 //| Paolo |
 //+ - - --+ 
 public class MyName {

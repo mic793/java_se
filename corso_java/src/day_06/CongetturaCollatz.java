@@ -6,7 +6,6 @@ package day_06;
  * Dato un numero n, restituire il numero di passi necessari per raggiungere 1.
  */
 
-/*
 public class CongetturaCollatz {
 
     // Metodo che calcola il numero di passi della sequenza di Collatz per arrivare a 1.
@@ -49,11 +48,11 @@ public class CongetturaCollatz {
         System.out.println("Numero di passi per raggiungere 1 partendo da " + n + ": " + result);
     }
 }
-*/
+
 
 //ESERCIZIO 1
 //Dato un numero n, restituire il numero di passi necessari per raggiungere 1.
-
+/*
 public class CongetturaCollatz {
 	public static int collatzSteps(int n) {
 
@@ -85,3 +84,4 @@ public class CongetturaCollatz {
 	}
 
 }
+*/

@@ -4,11 +4,13 @@ package day_04;
  * Scrivi un programma java per stampare gli elementi di una matrice.
  * */
 
-/*public class StampaMatrice { // 1, 2, 3
+public class StampaMatrice { // 1, 2, 3
 
 	public static void main(String[] args) {
 		// Dichiara e inizializza una matrice (array bidimensionale) 3x3 di interi.
-        int[][] matrice = { { 1, 2, 3 }, { 4, 5, 6}, { 7, 8, 9} };		
+        int[][] matrice = { { 1, 2, 3 }, 
+        					{ 4, 5, 6 }, 
+        					{ 7, 8, 9} };		
         // Chiama il metodo 'stampaMatrice', passandogli la matrice appena creata.
         stampaMatrice(matrice);
         }
@@ -33,10 +35,23 @@ package day_04;
 	}
 
 }
+
+//PER STAMPARE SOLO LE COLONNE INVERTIRE L'ORDINE NEL FOR INTERNO CHE DIVENTA
+/*
+for (int colonna = 0; colonna < matrice[0].length; colonna++) {
+	
+	  // Stampa l'elemento alla posizione [riga][colonna] seguito da uno spazio.
+		System.out.print(matrice[colonna][0] + " ");
+
+	}
 */
 
+
+
+//*******************************************************************************************************
 //ESERCIZIO 12
 //Scrivi un programma java per stampare gli elementi di una matrice.
+/*
 public class StampaMatrice{
 	public static void main(String[] args) {
 		int[][] matrice = {{1,2,3}, {4,5,6}, {7,8,9}};
@@ -55,4 +70,6 @@ public class StampaMatrice{
 		}
 	}
 }
+
+*/
 

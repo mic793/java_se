@@ -46,6 +46,7 @@ public class SommaDueNumeri {
 		System.out.println("La somma dei due numeri e': " + somma);
 
 		input.close();
+		System.out.println();
 
 	}
 }

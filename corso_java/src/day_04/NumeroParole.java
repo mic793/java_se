@@ -6,8 +6,8 @@ package day_04;
  */
 
 //PRIMA SOLUZIONE
-
-/*public class NumeroParole {
+/*
+public class NumeroParole {
 
 	public static void main(String[] args) {
 		// Inizializza una variabile di tipo String con una frase di prova.
@@ -34,13 +34,15 @@ package day_04;
 		// Stampa il numero totale di parole calcolato.
 		System.out.println("Il numero di parole nella stringa e': " + numeroParole);
 	}
-}*/
+}
+*/
 
 //ESERCIZIO 1
 //Scrivi un programma Java che calcoli il numero di parole presenti in una stringa data. 
 //Viene considerata una parola una sequenza di caratteri separati da spazi.
 
 //SECONDA SOLUZIONE
+
 public class NumeroParole {
 	public static void main(String[] args) {
 

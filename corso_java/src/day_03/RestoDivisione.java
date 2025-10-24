@@ -37,7 +37,9 @@ import java.util.Scanner;
  */
 
 //ESERCIZIO 1
-//Implementa un programma che chieda all'utente di inserire due numeri e calcoli il resto della divisione tra il primo numero e il secondo numero utilizzando l'operatore modulo.
+//Implementa un programma che chieda all'utente di inserire due numeri e calcoli il resto della divisione tra il primo numero 
+//e il secondo numero utilizzando l'operatore modulo.
+
 public class RestoDivisione{
 	
 	public static void main(String[] args) {

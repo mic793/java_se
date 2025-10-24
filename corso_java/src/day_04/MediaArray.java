@@ -1,8 +1,9 @@
 package day_04;
 
+//ESERCIZIO 6
 /*Write a Java program that calculates the average of the values in an array of floating-point numbers.*/
 
-/*public class MediaArray {
+public class MediaArray {
 
 	public static void main(String[] args) {
 		// Dichiara e inizializza un array di numeri in virgola mobile (double).
@@ -11,13 +12,7 @@ package day_04;
         
         // Dichiara una variabile 'somma' e la inizializza a 0 per accumulare i valori.
         double somma = 0;
-
-        // Inizia un ciclo "for-each" per scorrere ogni elemento dell'array 'numeri'.
-        //for (double numero : numeri) {
-        //    // Ad ogni ciclo, aggiunge l'elemento corrente ('numero') alla somma totale.
-        //	somma = somma + numero; 
-        //}
-        
+          
         for(int i = 0; i < numeri.length; i++) {
         	somma = somma + numeri[i];
         }
@@ -29,21 +24,17 @@ package day_04;
         System.out.println("La media dei valori nell'array e': " + media);
     }
 }
-*/
+
 
 //ESERCIZIO 6
 //Scrivi un programma Java che calcola la media dei valori presenti in un array di numeri in virgola mobile (double).
-
+/*
 public class MediaArray {
 	public static void main(String[] args) {
 
 		double[] numeri = { 2.5, 8.9, 7.6, 10.56 };
 
 		double somma = 0;
-
-		for (double n : numeri) {
-			somma = somma + n;
-		}
 
 		for (int i = 0; i < numeri.length; i++) {
 			somma = somma + numeri[i];
@@ -55,3 +46,4 @@ public class MediaArray {
 	}
 
 }
+*/

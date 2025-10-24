@@ -20,7 +20,6 @@ import java.util.Scanner;
  * Speak
  * Change*/
 
-/*
  public class Isogramma {
 
 
@@ -84,10 +83,11 @@ import java.util.Scanner;
     }
 }
 
-*/
+
 
 //ESERCIZIO 2
-public class Isogramma {
+/*
+ public class Isogramma {
 
 	public static void main(String[] args) {
 		Scanner input = new Scanner(System.in);
@@ -131,3 +131,4 @@ public class Isogramma {
 	}
 
 }
+*/
